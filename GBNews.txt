@@ -1,0 +1,3 @@
+<size=30>Welcome to <size=50><color=red>GoreBox
+<size=40>Due to official reasons, multiplayer mode has been temporarily cancelled. This is the multiplayer mode in version v15.17.56, where you can play with your friends.
+<size=40>Remember: Please refrain from using any cheat tools; otherwise, we will take enforcement measures!
